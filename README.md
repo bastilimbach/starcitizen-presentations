@@ -14,7 +14,7 @@
 - [https://www.youtube.com/watch?v=-zN5q7sBKmc](https://www.youtube.com/watch?v=-zN5q7sBKmc)
 - [GDC Panel](https://www.youtube.com/watch?v=7vhRQPhL1YU)
 
-**[⬆️ back to top](#)**
+**[⬆️ back to top](#table-of-contents)**
 ## 2013
 **Gamescom - August**
 - Hangar Module preview
@@ -26,7 +26,7 @@
 - Teams presentation and more hangar gameplay
 - [Star Citizen CitizenCon 2013 Presentation](https://www.youtube.com/watch?v=J5YJDOwil0k)
 
-**[⬆️ back to top](#)**
+**[⬆️ back to top](#table-of-contents)**
 ## 2014
 **PAX East - April**
 - Arena Commander preview
@@ -41,7 +41,7 @@
 - [https://www.youtube.com/watch?v=TiVODuGFCMg](https://www.youtube.com/watch?v=TiVODuGFCMg)
 - [Persistent Universe Demo](https://www.youtube.com/watch?v=7Gx-3iwXvoQ)
 
-**[⬆️ back to top](#)**
+**[⬆️ back to top](#table-of-contents)**
 ## 2015
 **PAX East - March**
 - Star Marine announcment & Old Star Marine Zero-G preview/gameplay
@@ -57,7 +57,7 @@
 - Squadron 42
 - [https://www.youtube.com/watch?v=IehITxsK4Fs](https://www.youtube.com/watch?v=IehITxsK4Fs)
 
-**[⬆️ back to top](#)**
+**[⬆️ back to top](#table-of-contents)**
 ## 2016
 **Gamescom - August**
 - Planetary Tech 1.0 preview
@@ -69,4 +69,4 @@
 - [Star Citizen CitizenCon 2016 Presentation](https://www.youtube.com/watch?v=XuDj5v81Nd0)
 - [https://www.youtube.com/watch?v=pdCFTF8j7yI](https://www.youtube.com/watch?v=pdCFTF8j7yI)
 
-**[⬆️ back to top](#)**
+**[⬆️ back to top](#table-of-contents)**
